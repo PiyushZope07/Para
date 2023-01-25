@@ -16,6 +16,8 @@ public void sepcifyuname(String uname) {
 
 
     System.out.println("HI TRY CHANGES");
+    String s1;
+    String s2;
 
 
 }
