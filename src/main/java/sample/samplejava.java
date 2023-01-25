@@ -13,10 +13,13 @@ public void i_am_on_github_home_page() {
 public void sepcifyuname(String uname) {
     // Write code here that turns the phrase above into concrete actions
 
-   
-        System.out.println("HI TRY CHANGES");
 
-   
+
+    System.out.println("HI TRY CHANGES");
+    String s1;
+    String s3;
+
+
 }
 
 }
